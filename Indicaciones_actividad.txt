@@ -1,0 +1,21 @@
+El objetivo de esta actividad es segmentar los objetos presentes en la nube de puntos, como columnas, tuberías, pisos, techos, vigas, personas y vehículos, entre otros. Se recomienda combinar algoritmos de clustering en múltiples etapas, aprovechando los distintos atributos disponibles. Las nubes de puntos contienen información de posición, color (RGB) y normal para cada uno de los puntos.
+
+La solución deberá exportar la nube de puntos con colores por punto que representen los segmentos identificados, como se muestra en la siguiente imagen.
+
+image.png
+
+En Python, se pueden utilizar bibliotecas como Open3D para leer y exportar nubes de puntos, así como herramientas como MeshLab y CloudCompare para visualizar los resultados y generar capturas.
+
+La entrega deberá incluir:
+
+Reporte en PDF con el procedimiento propuesto y capturas de los resultados.
+
+Código fuente en un archivo ZIP o mediante un enlace a un repositorio incluido en el reporte.
+
+Nube de puntos coloreada en relación a las clases encontradas en formato PLY.
+ 
+
+Esta actividad será realizada considerando los grupos de proyecto 1 y 2. El reporte debe contener el identificador del grupo, así como los nombres completos de todos los integrantes. Solo un integrante del grupo debe presentar el trabajo. 
+
+
+
